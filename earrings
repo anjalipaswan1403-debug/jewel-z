@@ -1,0 +1,12 @@
+<section id="earrings" class="earrings-catalogue">
+  <h2>Earrings Catalogue</h2>
+  <p>Discover our latest earrings collection ✨</p>
+  <div class="earrings-gallery">
+    <img src="https://images.unsplash.com/photo-1617051679355-5d92ad2e6a0b?auto=format&fit=crop&w=400&q=80" alt="Earring 1">
+    <img src="https://images.unsplash.com/photo-1622310507768-5f31da2f71a4?auto=format&fit=crop&w=400&q=80" alt="Earring 2">
+    <img src="https://images.unsplash.com/photo-1599643478518-a784e5dc4a33?auto=format&fit=crop&w=400&q=80" alt="Earring 3">
+    <img src="https://images.unsplash.com/photo-1587141994807-04f2368f89df?auto=format&fit=crop&w=400&q=80" alt="Earring 4">
+  </div>
+
+  <a href="earrings-catalogue.pdf" class="btn" target="_blank">📘 Download Full Catalogue (PDF)</a>
+</section>
